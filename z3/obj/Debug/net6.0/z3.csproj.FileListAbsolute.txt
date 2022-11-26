@@ -1,0 +1,15 @@
+D:\Тестер\с#\hw5\z3\bin\Debug\net6.0\z3.exe
+D:\Тестер\с#\hw5\z3\bin\Debug\net6.0\z3.deps.json
+D:\Тестер\с#\hw5\z3\bin\Debug\net6.0\z3.runtimeconfig.json
+D:\Тестер\с#\hw5\z3\bin\Debug\net6.0\z3.dll
+D:\Тестер\с#\hw5\z3\bin\Debug\net6.0\z3.pdb
+D:\Тестер\с#\hw5\z3\obj\Debug\net6.0\z3.csproj.AssemblyReference.cache
+D:\Тестер\с#\hw5\z3\obj\Debug\net6.0\z3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Тестер\с#\hw5\z3\obj\Debug\net6.0\z3.AssemblyInfoInputs.cache
+D:\Тестер\с#\hw5\z3\obj\Debug\net6.0\z3.AssemblyInfo.cs
+D:\Тестер\с#\hw5\z3\obj\Debug\net6.0\z3.csproj.CoreCompileInputs.cache
+D:\Тестер\с#\hw5\z3\obj\Debug\net6.0\z3.dll
+D:\Тестер\с#\hw5\z3\obj\Debug\net6.0\refint\z3.dll
+D:\Тестер\с#\hw5\z3\obj\Debug\net6.0\z3.pdb
+D:\Тестер\с#\hw5\z3\obj\Debug\net6.0\z3.genruntimeconfig.cache
+D:\Тестер\с#\hw5\z3\obj\Debug\net6.0\ref\z3.dll
